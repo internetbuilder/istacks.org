@@ -20,7 +20,7 @@ json.data.forEach(function(section) {
     </div>`;
   });
 
-  let sectionHtml = `<div class="panel collapse">
+  let sectionHtml = `<div class="panel">
       <div class="panel-header">
           <p><i class="ion-${section.icon}"></i> ${section.name}</p>
           <div class="panel-header-right">

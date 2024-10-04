@@ -9,6 +9,16 @@ const json = {
           title: 'Enjoy :)',
           links: [
             {
+              title: 'chatbot.istacks.org',
+              text: 'GPT Chatbot by SMS Service',
+              url: 'https://chatbot.istacks.org/'
+            },
+            {
+              title: 'teleman.istacks.org',
+              text: 'TeleMan VOIP SaaS centralized Voice Solution Platform.',
+              url: 'https://smssender.org/'
+            },
+            {
               title: 'teleman.istacks.org',
               text: 'TeleMan VOIP SaaS centralized Voice Solution Platform.',
               url: 'https://teleman.istacks.org/'
@@ -18,16 +28,16 @@ const json = {
               text: 'WhatsBot SaaS A WhatsApp Marketing Platform.',
               url: 'https://whatsbot.istacks.org/'
             },
-            {
-              title: 'marketing.istacks.org',
-              text: 'Swift Send SaaS Email Marketing Platform.',
-              url: 'https://marketing.istacks.org/'
-            },
-            {
-              title: 'telegroupbot.istacks.org',
-              text: 'TeleGroupBot SaaS Community Manager Platform.',
-              url: 'https://telegroupbot.istacks.org/'
-            },
+           // {
+           //   title: 'marketing.istacks.org',
+           //   text: 'Swift Send SaaS Email Marketing Platform.',
+           //   url: 'https://marketing.istacks.org/'
+           // },
+           // {
+           //   title: 'telegroupbot.istacks.org',
+           //   text: 'TeleGroupBot SaaS Community Manager Platform.',
+           //   url: 'https://telegroupbot.istacks.org/'
+           // },
             {
               title: 'justwallet.istacks.org',
               text: 'Just Wallet SaaS Full Payment Gateway Platform.',

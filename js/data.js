@@ -38,11 +38,11 @@ const json = {
            //   text: 'TeleGroupBot SaaS Community Manager Platform.',
            //   url: 'https://telegroupbot.istacks.org/'
            // },
-            {
-              title: 'justwallet.istacks.org',
-              text: 'Just Wallet SaaS Full Payment Gateway Platform.',
-              url: 'https://justwallet.istacks.org/'
-            },
+           // {
+          //    title: 'justwallet.istacks.org',
+           //   text: 'Just Wallet SaaS Full Payment Gateway Platform.',
+           //   url: 'https://justwallet.istacks.org/'
+           // },
             {
               title: 'mlmlab.istacks.org',
               text: 'MLMLab SaaS Multilevel Marketing Platform.',
